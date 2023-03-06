@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Nothing special",
+    "description": "Do what you want, I don't care",
+    "version": "1",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer": TJ46
+    {
+        "name": "Opera Software"
+ 
